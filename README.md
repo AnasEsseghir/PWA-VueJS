@@ -1,6 +1,6 @@
 # vue-pwa
 
-> A Vue.js project
+> A Basic vue-js project using PWA(progressive web application)
 
 ## Build Setup
 
